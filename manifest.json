@@ -1,0 +1,13 @@
+{
+    "name": "Crazy Chrome Customization",
+    "description": "Change all images from your chrome to random images",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "action": {
+        "default_popup": "index.html"
+    }
+}
